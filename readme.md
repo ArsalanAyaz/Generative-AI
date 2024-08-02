@@ -1,3 +1,19 @@
+
+
+
+
+Name:	Muhammad Arsalan Ayaz Azhar
+S/O:	Azhar Iqbal
+Roll No:	PIAIC200939
+Batch:	Batch 47
+City:	Lahore
+Gender:	male
+Course:	Certified Cloud Applied Generative AI Engineer
+Email:	arsalanayaz821@gmail.com
+
+
+
+
 ### Differentiate between AI, machine learning, deep learning, generative AI, and applied AI
 
 Let's break down the differences between AI, machine learning, deep learning, generative AI, and applied AI in a simple way.
